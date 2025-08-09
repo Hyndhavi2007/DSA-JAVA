@@ -1,4 +1,4 @@
-public class SecondLargest {
+public class SecondLargestElement {
     public static int secondLargest(int[] nums) {
         if (nums == null || nums.length < 2) return -1;
 
