@@ -31,6 +31,7 @@ public class RemoveDuplicateElemntsFromSortedArray {
          for(int i = 0; i < k; i++){
             System.out.print(temp[i] + " ");
          }
+         scanner.close();
 
     }
         }
