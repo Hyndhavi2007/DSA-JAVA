@@ -18,7 +18,7 @@ public class FindMissingNumber {
         }
         int missingNumber = expectedSum - actualSum;
         System.out.println("Missing Number is: " + missingNumber);
-        
+        scanner.close();
 
 
     }
