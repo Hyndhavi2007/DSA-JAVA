@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.HashMap;
-import java.util.Map;
 public class GradeHM {
     public static void main(String[] args){
         HashMap<String, Integer> grades = new HashMap<>();
