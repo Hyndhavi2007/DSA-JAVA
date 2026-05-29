@@ -14,6 +14,7 @@ public class multiArray {
             }
             System.out.println();
         }
+        System.out.println("By uing enhanced for loop");
         // enhanced for loop
         for(int n[] :nums){
             for(int m : n){
