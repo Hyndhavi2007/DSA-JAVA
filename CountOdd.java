@@ -15,3 +15,4 @@ public class CountOdd {
         System.out.println("The number of the odd numbers in the array is " + count);
     }
 }
+
